@@ -215,7 +215,7 @@ document.getElementById('btnPath').addEventListener('click', function () {
   draw.setShape('path');
 }, false);
 
-// trying to figure out how to insert the color chosen from the color picker into a method for a shape******
+// *****trying to figure out how to insert the color chosen from the color picker into a method for a shape******
 // document.getElementById('my-color').addEventListener('click', function () {
 //   draw.setShape('path');
 // }, false);
